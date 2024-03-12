@@ -18,7 +18,6 @@ En la clase de Lenguajes Interpretados he aprendido a como utilizar git y github
 ## Principios de Composición 
 ### Roberto Melo
 
-
 En la clase de Principios de Composición he aprendido a como utilizar Photoshop y sus distintas herramientas para hacer fotomontajes con varias imágenes y poder dar un contexto con ella.
 
 --- 
@@ -26,5 +25,11 @@ En la clase de Principios de Composición he aprendido a como utilizar Photoshop
 
 ## Proyecto Semestral
 ### Sebastian Mejia
+
 En la clase de Proyecto Semestral he aprendido a como realizar diferentes tipos de mapas como el de casos de uso, entidad relación, etc. también aprendí a como utilizar distintos softwares para realizarlos.
 
+---
+## Sistemas Operativos
+### Profesor Osiel Morales
+
+En la clase de Lenguajes Interpretados he aprendido los distintos tipos de sistemas operativos y la función que tienen,también que componentes se necesitan para que un sistema operativo funcione correctamente.
